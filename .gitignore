@@ -3,6 +3,7 @@ target/
 aws/
 id_ed25519.pub
 kubectl.sha256
+Helm.sh
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
